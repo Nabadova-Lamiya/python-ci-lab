@@ -4,4 +4,4 @@ def add(a, b):
 
 # Uğurla keçməli olan test funksiyası (Adı mütləq test_ ilə başlamalıdır)
 def test_add_success():
-    assert add(10, 5) == 15
+    assert add(10, 5) == 100
